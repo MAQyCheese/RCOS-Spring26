@@ -1,3 +1,3 @@
 def helloWorld():
-    return "Hello World"
+    return "Hello Mars!"
 print(helloWorld())
